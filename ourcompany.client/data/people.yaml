@@ -1,0 +1,9 @@
+- id: 1
+  name: Alice
+  email: alice@example.com
+  birthDate: 1990-05-15
+
+- id: 2
+  name: Bob
+  email: bob@example.com
+  birthDate: 1987-11-23

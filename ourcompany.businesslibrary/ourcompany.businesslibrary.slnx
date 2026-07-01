@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ourcompany.client/ourcompany.client.csproj" />
+  <Project Path="ourcompany.businesslibrary.csproj" />
+</Solution>
