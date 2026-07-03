@@ -12,6 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ourcompany.businesslibrary\ourcompany.businesslibrary.csproj" />
   </ItemGroup>
 
