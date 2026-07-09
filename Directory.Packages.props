@@ -6,6 +6,6 @@
   <ItemGroup>
     <PackageVersion Include="CsvHelper" Version="33.1.0" />
     <PackageVersion Include="YamlDotNet" Version="18.1.0" />
-    <PackageVersion Include="Newtonsoft.Json" Version="13.0.*" />
+    <PackageVersion Include="Newtonsoft.Json" Version="13.0.4" />
   </ItemGroup>
 </Project>
